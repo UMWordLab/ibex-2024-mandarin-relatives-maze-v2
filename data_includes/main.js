@@ -1,5 +1,5 @@
 PennController.ResetPrefix(null); // Shorten command names (keep this line here))
-//PennController.DebugOff();
+PennController.DebugOff();
 
 var shuffleSequence = seq("consent", "nameentry", "IDentry", 
                     "LexTale_instructions", "LexTale_trials", 
